@@ -3,12 +3,12 @@
 Software Engineering student at Plovdiv University, focused on building clean, well-structured applications and growing into my first developer role.
 
 ## 🛠️ Tech Stack
-**Languages:** C# · Java · Python · SQL
-**Web:** Django · HTML/CSS
-**Desktop:** .NET / Windows Forms
-**Testing:** Cucumber (BDD)
-**Data & BI:** Power BI (DAX)
-**Tools:** Git · Visual Studio · IntelliJ IDEA · PyCharm
+- **Languages:** C# · Java · Python · SQL
+- **Web:** Django · HTML/CSS
+- **Desktop:** .NET / Windows Forms
+- **Testing:** Cucumber (BDD)
+- **Data & BI:** Power BI (DAX)
+- **Tools:** Git · Visual Studio · IntelliJ IDEA · PyCharm
 
 ## 📌 Projects
 - **[Vector Graphics Editor](https://github.com/krisrozata/vector-graphics-editor)** — C# / Windows Forms editor with shape transformations and Composite-pattern grouping.
@@ -19,8 +19,7 @@ Software Engineering student at Plovdiv University, focused on building clean, w
 Deepening my main stack, data structures & algorithms, and system design.
 
 ## 📫 Contact
-- LinkedIn: `<your-linkedin>`
-- Email: `krisitqn@abv.bg`
-
+- LinkedIn: <!-- сложи линка тук -->
+- Email: krisitqngg@abv.bg
 ---
 🏎️ Outside of code: motorsport, running & calisthenics.
