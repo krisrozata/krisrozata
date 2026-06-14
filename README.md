@@ -19,7 +19,7 @@ Software Engineering student at Plovdiv University, focused on building clean, w
 Deepening my main stack, data structures & algorithms, and system design.
 
 ## 📫 Contact
-- LinkedIn: <!-- сложи линка тук -->
+- LinkedIn: https://www.linkedin.com/in/kristiqn-georgiev-7668a2416/?skipRedirect=true)
 - Email: krisitqngg@abv.bg
 ---
 🏎️ Outside of code: motorsport, running & calisthenics.
