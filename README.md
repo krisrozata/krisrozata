@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kristiyan 👋
 
-<!--
-**krisrozata/krisrozata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Plovdiv University, focused on building clean, well-structured applications and growing into my first developer role.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** C# · Java · Python · SQL
+**Web:** Django · HTML/CSS
+**Desktop:** .NET / Windows Forms
+**Testing:** Cucumber (BDD)
+**Data & BI:** Power BI (DAX)
+**Tools:** Git · Visual Studio · IntelliJ IDEA · PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **[Vector Graphics Editor](https://github.com/krisrozata/vector-graphics-editor)** — C# / Windows Forms editor with shape transformations and Composite-pattern grouping.
+- **[Barbershop Booking (Django)](https://github.com/krisrozata/BarberShop)** — web app for booking and managing appointments.
+- **[Barbershop Management (Java)](https://github.com/krisrozata/barbershop-management)** — domain logic tested with Cucumber BDD scenarios.
+
+## 🌱 Currently learning
+Deepening my main stack, data structures & algorithms, and system design.
+
+## 📫 Contact
+- LinkedIn: `<your-linkedin>`
+- Email: `krisitqn@abv.bg`
+
+---
+🏎️ Outside of code: motorsport, running & calisthenics.
